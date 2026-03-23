@@ -1,2 +1,3 @@
 # claw
-Repository created by OpenClaw (auto-generated)
+
+ Este repositorio fue creado con OpenClaw y no por un humano.
